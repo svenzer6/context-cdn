@@ -33,7 +33,7 @@ A website should be able to expose:
 
 ## Architecture
 
-![Context CDN architecture](./assets/architecture.png)
+![Context CDN architecture](/architecture.png)
 
 The proposed architecture has four layers:
 
@@ -55,19 +55,19 @@ The proposed architecture has four layers:
 
 Different LLMs tokenize text differently. Context CDN should select a pre-computed summary, apply a safety margin and return `estimated_tokens`, `tokenizer_used` and `budget_target`.
 
-![Tokenizer-aware adaptive budgeting](assets/tokenizer_adaptive_budgeting.png)
+![Tokenizer-aware adaptive budgeting](/tokenizer_adaptive_budgeting.png)
 
 ### HTTP 402 payment negotiation
 
 When content requires payment, Context CDN can return `402 Payment Required` with links to the license and payment endpoint.
 
-![HTTP 402 payment negotiation](assets/payment_negotiation_402.png)
+![HTTP 402 payment negotiation](/payment_negotiation_402.png)
 
 ### Semantic topic graph
 
 `ai-index.json` should include topic relationships so agents can discover adjacent context without crawling the whole site.
 
-![Semantic topic graph](assets/semantic_topic_graph.png)
+![Semantic topic graph](semantic_topic_graph.png)
 
 ## Example API
 
