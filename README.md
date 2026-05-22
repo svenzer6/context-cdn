@@ -33,7 +33,7 @@ A website should be able to expose:
 
 ## Architecture
 
-![Context CDN architecture](assets/architecture.png)
+![Context CDN architecture](./assets/architecture.png)
 
 The proposed architecture has four layers:
 
