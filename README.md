@@ -99,35 +99,7 @@ Example JSON response:
 }
 ```
 
-## Repository structure
 
-```text
-.
-├── assets/
-│   ├── architecture.png
-│   ├── tokenizer_adaptive_budgeting.png
-│   ├── payment_negotiation_402.png
-│   ├── semantic_topic_graph.png
-│   └── social-card-context-cdn.png
-├── docs/
-│   ├── whitepaper.md
-│   ├── whitepaper.pdf
-│   └── github-publish-checklist.md
-├── examples/
-│   ├── ai-index.example.json
-│   └── llms.txt
-├── metadata/
-│   └── github_about.md
-├── posts/
-│   ├── linkedin_tr.md
-│   ├── linkedin_en.md
-│   ├── short_caption_tr.md
-│   └── short_caption_en.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── CITATION.cff
-├── LICENSE
-└── README.md
 ```
 
 ## GitHub repository description
