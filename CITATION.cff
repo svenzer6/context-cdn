@@ -8,5 +8,5 @@ authors:
 email: "drburhancelebi@icloud.com"
 date-released: "2026-05-23"
 abstract: "An open-source proposal for a token-efficient, license-aware context delivery layer for AI agents."
-repository-code: "https://github.com/YOUR_USERNAME/context-cdn"
+repository-code: "https://github.com/svenzer6/context-cdn"
 license: "CC-BY-4.0"
