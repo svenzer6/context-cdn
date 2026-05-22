@@ -7,7 +7,7 @@
 Author: **Burhan Çelebi**  
 Contact: [drburhancelebi@icloud.com](mailto:drburhancelebi@icloud.com)
 
-![Context CDN social card](assets/social-card-context-cdn.png)
+![Context CDN social card](/social-card-context-cdn.png)
 
 ## Why this matters
 
